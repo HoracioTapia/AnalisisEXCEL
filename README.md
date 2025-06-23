@@ -12,5 +12,4 @@ Este conjunto de datos contiene informacion detallada acerca de las ventas de la
 
 
 
-![INE FRENTE](https://github.com/user-attachments/assets/6d960e3d-6852-4c6c-9b0c-668b3e9a7e7a) 
 
